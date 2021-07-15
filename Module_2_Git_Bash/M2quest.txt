@@ -5,4 +5,4 @@ other hand is simply a git repository hosting service that contains git files an
 so we can create and move files, as well as other commands. 
 3)Three benefits of a version control system are that you can easily see revisions made to your work,
 allows many people to work on a document together, and provides users with history of the 
-documents so bugs can be easily identified and fixed by a member of the team. 
+documents so bugs can be easily identified and fixed by a member of the team.
