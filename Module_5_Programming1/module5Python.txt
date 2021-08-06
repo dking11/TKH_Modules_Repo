@@ -7,7 +7,7 @@ Python works with packages meaning that you can save and reuse code very easily.
 Python is a fan favorite due to the fact that it's very easy to use and learn, and can be used for many things.
 In the case of bugs and errors, they are also easy to fix and the wide network of users makes it easuy to find help.
 The IDE will usually find the mistakes and suggest fixes or tell you what is wrong with the code.
-All this to say that Python is a very geenral and effective langauge that can be learned relatively quickly. 
+All this to say that Python is a very general and effective langauge that can be learned relatively quickly. 
 
 2) There are different types of data types in Python, and what they are, are just forms of data; 
 pretty much they represents what kind of data can be used. The types of data are string, integer, boolean, sequence, float, complex, tuple,
