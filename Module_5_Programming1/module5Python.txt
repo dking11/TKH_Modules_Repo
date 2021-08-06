@@ -1,0 +1,39 @@
+1) Python is a interpreted high level general purpose language that is used to complete functions and other 
+tasks like web development, AI, machine leanring and others. 
+Python is an object oriented language, which means that users can create different 
+classes and objects which can be used to create more effective, versatile and powerful code that can be used for many tasks. 
+Python also has very simple syntax, and very readable for that reason. This makes it very easy for anyone to learn. 
+Python works with packages meaning that you can save and reuse code very easily.
+Python is a fan favorite due to the fact that it's very easy to use and learn, and can be used for many things.
+In the case of bugs and errors, they are also easy to fix and the wide network of users makes it easuy to find help.
+The IDE will usually find the mistakes and suggest fixes or tell you what is wrong with the code.
+All this to say that Python is a very geenral and effective langauge that can be learned relatively quickly. 
+
+2) There are different types of data types in Python, and what they are, are just forms of data; 
+pretty much they represents what kind of data can be used. The types of data are string, integer, boolean, sequence, float, complex, tuple,
+list, dictionary, and set.
+String data represents characters, or letters. 
+Integer data represent whole numbers.
+Float data represents numbers with decimals. 
+Complex data represents data with numbers and string data. 
+Tuples represent an ordered collection of objects, and they are immutable. 
+Lists represent an ordered and mutable collection of objects, slightlt different from tuples. 
+Sequence allows you to contain a large amount of values of any data type. 
+Boolean is a data type that are true or false statements.
+Dictionary is data that is stored with a key-value pair. 
+
+3) A function in python is a group of code that when called, executes a certain tasks or formula. 
+A function must first be defined before it can be utilized in this way. Functions allow programmers to write a block
+of code that will accomplish specific tasks, like return a value in a quadratic function depending on the value for x.
+Once it is defined it can be called and used anywhere after the function to return data.
+A function is a useful tool because no longer would a programmer have to write the same equation multiple times. 
+This is effective because it helps with organization and decreases repetition.
+
+4) The Python print function returns the output of the code or specified message to the device, like a function or simple line of code that is ran. 
+A print statement can be used many times with no limit, and will always show the result of the code used. 
+The print statement has many parameters, which include objects,separator,end,file and flush.
+A separator specifies how to separate objects, and end specifies what to print at the end of the statement. (\n prints new line)
+Finally the flush parameter is a boolean data type that only gives and output if the statement is true.
+
+
+
